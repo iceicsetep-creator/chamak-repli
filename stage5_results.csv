@@ -1,0 +1,10 @@
+plane,architecture,slice_acc,subject_acc,FN,FP
+sagittal,InceptionV3,61.1,66.20,10,14
+sagittal,Xception,54.1,56.34,8,23
+sagittal,ResNet50,58.0,57.75,25,5
+coronal,InceptionV3,62.2,66.20,8,16
+coronal,Xception,65.0,64.79,8,17
+coronal,ResNet50,62.2,63.38,11,15
+axial,InceptionV3,64.6,64.79,11,14
+axial,Xception,65.6,66.20,6,18
+axial,ResNet50,65.2,61.97,12,15
